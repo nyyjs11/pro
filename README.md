@@ -1,2 +1,0 @@
-# pro
-learning, contribution etc
